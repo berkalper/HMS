@@ -1,0 +1,2 @@
+You need to add jcommon.jar and jfreechart.jar to your libraries in order to run this project.
+For further information check > https://www.jfree.org/jfreechart/  documentation
